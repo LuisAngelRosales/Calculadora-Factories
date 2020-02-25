@@ -1,6 +1,9 @@
 package application;
 import java.util.List;
 
+// DANIELA VILLAMAR 19086//
+// LUIS ROSALES //
+
 public abstract class AbstractList<E> implements List<E>
 {
    public AbstractList()
