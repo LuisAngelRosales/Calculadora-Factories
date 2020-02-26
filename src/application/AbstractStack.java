@@ -1,3 +1,4 @@
+package application;
 public abstract class AbstractStack<E> implements iStack<E>{
 	
 	public abstract void push(E item);
