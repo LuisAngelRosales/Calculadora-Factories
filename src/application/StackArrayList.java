@@ -1,3 +1,4 @@
+package application;
 import java.util.ArrayList;
 public class StackArrayList<E> implements iStack<E>{
 	ArrayList<E> stack = new ArrayList<E>(); 
