@@ -1,3 +1,4 @@
+package application;
 public interface iStack<E> {
 	public void push(E item);
 	//Se agrega un elemento al stack o pila
